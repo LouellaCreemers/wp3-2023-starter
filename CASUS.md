@@ -10,8 +10,8 @@ Zowel individuen met een beperking als bedrijven moeten zich kunnen registreren 
 
 ## Stakeholders
 
-- **Stichting Accessibility:** Externe opdrachtgever met verschillende teams, waaronder onderzoekers, usability experts, accessibility experts en data analisten.
-- **Panelleden met een beperking:** Ongeveer 125 mensen die lid zijn van het panel. Belangrijkste ervaringsdeskundigen van de webapplicatie, waarvan de persoonlijke gegevens nauwkeurig moeten worden beschermd.
+- **Beheerder (Stichting Accessibility):** Externe opdrachtgever met verschillende teams, waaronder onderzoekers, usability experts, accessibility experts en data analisten.
+- **Ervaringsdeskundigen:** Ongeveer 125 mensen die lid zijn van een panel van Stichting Accessibility. Belangrijkste gebruikers van de webapplicatie, waarvan de persoonlijke gegevens nauwkeurig moeten worden beschermd.
 - **Bedrijven:** Bedrijven moeten aan de hand van een API call onderzoeken moeten kunnnen inschieten
 - **Webontwikkelaars:** De studenten.
 
